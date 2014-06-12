@@ -1,0 +1,11 @@
+1 - l'utilisateur tape son nom
+
+2 - le programme vérifie la conformité du nom
+	2.1 - si le nom contient un caractère non-alphabétique (hors -)
+	2.2 - si le nom n'a pas été rempli
+	2.3 - si le nom contient plus de caractères que prévus
+	==> un message indique l'erreur
+	2.4 - si le nom est conforme
+	==> enregistrement dans la base de données
+
+==> Existe-t-il une méthode pour vérifier cela ?
